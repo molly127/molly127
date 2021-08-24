@@ -12,7 +12,7 @@
 
 
 #### 💻 My Public Projects:
-- [CrystalProject](https://crystalproject.pl/)
+- [CrystalProject](https://github.com/CrystalisedProject)
 
 ### 📈 GitHub Stats:
 <div align="center">
