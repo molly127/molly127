@@ -1,7 +1,7 @@
 ### Hi! My name's Molly! 🔮
 
 ### 📫 Contact:
-[<img src="https://img.shields.io/badge/%F0%9D%99%A2%F0%9D%99%A4%F0%9D%99%A1%F0%9D%99%A1%F0%9D%99%AE%E2%9C%9E%237365-%237289DA.svg?&logo=discord&logoColor=white" />](https://discord.com/)
+[<img src="https://img.shields.io/badge/molly%233024-%237289DA.svg?&logo=discord&logoColor=white" />](https://discord.com/)
 
 #### ⚒ Langs:
 ![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
