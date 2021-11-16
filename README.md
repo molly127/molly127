@@ -12,7 +12,7 @@
 
 
 #### 💻 My Public Projects:
-- [CrystalProject](https://github.com/CrystalisedProject)
+- [YohBot](https://yohbot.xyz/)
 
 ### 📈 GitHub Stats:
 <div align="center">
