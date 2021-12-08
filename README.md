@@ -12,7 +12,7 @@
 
 
 #### 💻 My Public Projects:
-- [YohBot](https://yohbot.xyz/)
+- [NanoHosting](https://nanohosting.me/)
 
 ### 📈 GitHub Stats:
 <div align="center">
