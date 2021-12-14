@@ -1,20 +1,25 @@
-### Hi! My name's Molly! 🔮
+<h1 align="center">👋 Mam na imię Molly! </h1>
 
-### 📫 Contact:
-[<img src="https://img.shields.io/badge/molly%233024-%237289DA.svg?&logo=discord&logoColor=white" />](https://discord.com/)
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=molly127&label=Profile%20views&color=0e75b6&style=flat" alt="molly127" /> </p>
+<img align="right" src="https://cdn.discordapp.com/attachments/912068163091439626/920099343183278080/meow.gif" alt="gif" height="250px" />
 
-#### ⚒ Langs:
-![Javascript](https://img.shields.io/badge/-Javascript-black?style=flat&logo=javascript)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=Node.js)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql)
-![HTML5](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5) 
+- 💻 Programista @ <a href="https://nanohosting.me/">NanoHosting </a>
 
+- 📂 Jestem otwarty na różne zaproszenia do projektów.
+<h3 align="left">Kontakt:</h3>
+<p align="left">
+  <a href="https://discord.com" target="blank"><img src="https://img.shields.io/badge/molly%233024-%237289DA.svg?&logo=discord&logoColor=white"/></a>
+</p>
 
-#### 💻 My Public Projects:
-- [NanoHosting](https://nanohosting.me/)
+<h3 align="left">Języki Programowania i Narzędzia:</h3>
+<p align="left"> 
+  <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>  
+  <a href="https://cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/GCP-2496ED?style=for-the-badge&logo=googlecloud&logoColor=white&color=DB4437" alt="gcp" /> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-D14836?style=for-the-badge&logo=mysql&logoColor=white&color=00758F" alt="mysql"/>
+    <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"/></a>  
 
-### 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=molly127&show_icons=true&theme=tokyonight" />
-</div>
+<p align="center"> 
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=molly127&theme=dracula" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=molly127&theme=dracula&hide_border=true" />
+</p>
