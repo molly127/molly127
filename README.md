@@ -20,6 +20,7 @@
     <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"/></a>  
       <a href="/" target="_blank"><img src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=html5&logoColor=white&color=E44D26"/></a>
       <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-14191E?style=for-the-badge&logo=github&logoColor=white&color=14191E"/></a>
+      <a href="https://jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/Intellij_Idea-14191E?style=for-the-badge&logo=IntelliJIDEA&logoColor=white&color=14191E"/></a>
 
 <p align="center"> 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=molly127&theme=dracula" />
