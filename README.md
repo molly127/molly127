@@ -7,11 +7,11 @@
 
 - 📂 Jestem otwarty na różne zaproszenia do projektów.
 <h3 align="left">Kontakt:</h3>
-<p align="left">
+<p align="center">
   <a href="https://discord.com" target="blank"><img src="https://img.shields.io/badge/molly%233024-%237289DA.svg?&logo=discord&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Języki Programowania i Narzędzia:</h3>
+<h3 align="center">Języki Programowania i Narzędzia:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>  
   <a href="https://cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/GCP-2496ED?style=for-the-badge&logo=googlecloud&logoColor=white&color=DB4437" alt="gcp"/> </a>
