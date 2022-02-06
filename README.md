@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=molly127&label=Profile%20views&color=0e75b6&style=flat" alt="molly127" /> </p>
 
-- 💻 Programista @ <a href="https://thunder.fun/">Thunder</a>
+- 💻 Programista @ <a href="https://thunder4.fun/">Thunder</a>
 
 - 📂 Jestem otwarty na różne zaproszenia do projektów.
 <h3 align="center">Kontakt:</h3>
