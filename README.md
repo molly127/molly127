@@ -1,4 +1,5 @@
-<center><a href= "https://discord.com/users/814604813324517407"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/814604813324517407?bg=00000000"/></a></center>
+<p align="center"> 
+<a href= "https://discord.com/users/814604813324517407"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/814604813324517407?bg=00000000"/></a></p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=molly127&label=Profile%20views&color=0e75b6&style=flat" alt="molly127" /> </p>
 
@@ -20,8 +21,3 @@
       <a href="/" target="_blank"><img src="https://img.shields.io/badge/Html-E44D26?style=for-the-badge&logo=html5&logoColor=white&color=E44D26"/></a>
       <a href="https://github.com/" target="_blank"><img src="https://img.shields.io/badge/github-14191E?style=for-the-badge&logo=github&logoColor=white&color=14191E"/></a>
       <a href="https://jetbrains.com/" target="_blank"><img src="https://img.shields.io/badge/Intellij_Idea-14191E?style=for-the-badge&logo=IntelliJIDEA&logoColor=white&color=14191E"/></a>
-
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=molly127&theme=dracula" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=molly127&theme=dracula&hide_border=true" />
-</p>
