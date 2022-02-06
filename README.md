@@ -1,4 +1,4 @@
-<a href= "https://discord.com/users/814604813324517407"><img align="left" src="https://lanyard-profile-readme.vercel.app/api/814604813324517407?bg=00000000"/></a>
+<a href= "https://discord.com/users/814604813324517407"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/814604813324517407?bg=00000000"/></a>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=molly127&label=Profile%20views&color=0e75b6&style=flat" alt="molly127" /> </p>
 <img align="right" src="https://cdn.discordapp.com/attachments/912068163091439626/920099343183278080/meow.gif" alt="gif" height="250px" />
@@ -14,7 +14,7 @@
 <h3 align="left">Języki Programowania i Narzędzia:</h3>
 <p align="left"> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/> </a>  
-  <a href="https://cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/GCP-2496ED?style=for-the-badge&logo=googlecloud&logoColor=white&color=DB4437" alt="gcp" /> </a>
+  <a href="https://cloud.google.com" target="_blank"> <img src="https://img.shields.io/badge/GCP-2496ED?style=for-the-badge&logo=googlecloud&logoColor=white&color=DB4437" alt="gcp"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git"/> </a> 
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.shields.io/badge/MySQL-D14836?style=for-the-badge&logo=mysql&logoColor=white&color=00758F" alt="mysql"/>
     <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E"/></a>  
