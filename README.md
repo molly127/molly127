@@ -1,7 +1,6 @@
 <center><a href= "https://discord.com/users/814604813324517407"><img align="center" src="https://lanyard-profile-readme.vercel.app/api/814604813324517407?bg=00000000"/></a></center>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=molly127&label=Profile%20views&color=0e75b6&style=flat" alt="molly127" /> </p>
-<img align="right" src="https://cdn.discordapp.com/attachments/912068163091439626/920099343183278080/meow.gif" alt="gif" height="250px" />
 
 - 💻 Programista @ <a href="https://thunder.fun/">Thunder</a>
 
