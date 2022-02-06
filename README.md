@@ -6,7 +6,7 @@
 - 💻 Programista @ <a href="https://thunder.fun/">Thunder</a>
 
 - 📂 Jestem otwarty na różne zaproszenia do projektów.
-<h3 align="left">Kontakt:</h3>
+<h3 align="center">Kontakt:</h3>
 <p align="center">
   <a href="https://discord.com" target="blank"><img src="https://img.shields.io/badge/molly%233024-%237289DA.svg?&logo=discord&logoColor=white"/></a>
 </p>
